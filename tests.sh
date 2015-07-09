@@ -14,4 +14,14 @@ reset_color=$(tput sgr0)
 # ==============================================================
 
 # ===============================================
-it "Should have header: 'X-Permitted-Cross-Domain-Policies: none' (CORS)"
+it "should have header: 'X-Permitted-Cross-Domain-Policies: none' (CORS)"
+
+it "should provide CORS preflight: allowed methods when client requests it"
+
+it "should have in cookie header: ; secure; httponly"
+explain "This ensures cookie is sent through a HTTPS proxy."
+
+it "should set header: Content-Security-Policy: default-src 'self'"
+
+it "should set Strict-Transport-Security to at least a year"
+it "should set Strict-Transport-Security include SubDomains"
