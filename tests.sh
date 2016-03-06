@@ -25,3 +25,11 @@ it "should set header: Content-Security-Policy: default-src 'self'"
 
 it "should set Strict-Transport-Security to at least a year"
 it "should set Strict-Transport-Security include SubDomains"
+
+it "should not have SERVER TOKENS"
+
+it "should set buffer size limitations"
+
+it "should remove DELETE, TRACE and other unwanted HTTP methods"
+
+
