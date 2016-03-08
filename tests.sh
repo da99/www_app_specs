@@ -32,4 +32,5 @@ it "should set buffer size limitations"
 
 it "should remove DELETE, TRACE and other unwanted HTTP methods"
 
+it "blocks malformed web requests (ie tests cloudfare or whitelist functionality)"
 
