@@ -37,3 +37,5 @@ it "blocks malformed web requests (ie tests cloudfare or whitelist functionality
 it "ports 6379, 16379, 26379, etc (Redis ports) are firewalled"
 it "all ports minus web app ports, firewalled"
 it "web app ports are below 100"
+
+it "stores session on SERVER, not in COOKIEs"
