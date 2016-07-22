@@ -1,0 +1,19 @@
+
+
+
+Alternatives to CSRF TOkens:
+
+* HTTP-Only, Secure: Session Id
+* Limit of 3 invalid double-cookie submits, and then
+user is logged out of everywhere. (Prevents brute force attack --- Yes
+    I know it's unlikely, but still.)
+* Disabled CORS.
+* Origin: header check. If not set or mis-matches: request is invalid.
+* Secure cookies only.
+* HSTS
+* Prevent old browsers from logging in.
+* Remember: sub-domains can write cookies to other sub-domains.
+* Prevent any non-HSTS browser from logging in.
+
+* Set: X-Frame-Options
+* HSTS PReload
