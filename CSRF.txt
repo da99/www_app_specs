@@ -18,3 +18,4 @@ user is logged out of everywhere. (Prevents brute force attack --- Yes
 * Set: X-Frame-Options
 * HSTS PReload
 https://insidethecpu.com/2013/09/23/encrypted-token-pattern/
+https://news.ycombinator.com/item\?id\=13441611
