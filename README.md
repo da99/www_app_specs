@@ -9,3 +9,11 @@ Firewall
 ========
 
 * https://news.ycombinator.com/item?id=13615424
+
+
+Systems Design
+==============
+
+* System Design Primer: 
+  https://news.ycombinator.com/item?id=13823979
+  https://github.com/donnemartin/system-design-primer
