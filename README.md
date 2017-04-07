@@ -5,6 +5,13 @@ wallarm wap firewall
 * Guide to User Data Security: https://www.inversoft.com/guides/2016-guide-to-user-data-security
 
 
+Containers and Jails
+====================
+
+* Containers, Jails, Zones
+  https://news.ycombinator.com/item?id=13982620
+
+
 Firewall
 ========
 
