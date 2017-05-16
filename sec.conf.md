@@ -1,4 +1,7 @@
 
+* List
+  https://news.ycombinator.com/item?id=14346652
+
 * HELMET
 https://github.com/SpiderLabs/ModSecurity/wiki/Reference-Manual#Installation_for_NGINX
 modSecurity as standalone mod, compiled into NGINX
