@@ -1,4 +1,7 @@
 
+* Guides
+  * Best Practices: https://checkmarx.gitbooks.io/go-scp/
+
 * List
   https://news.ycombinator.com/item?id=14346652
 
