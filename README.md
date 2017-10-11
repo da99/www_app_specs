@@ -1,3 +1,8 @@
+
+SSL in Hiawatha (let's encrypt)
+===============================
+http://dotbalm.org/lets-encrypt-with-hiawatha/
+
 wallarm wap firewall
 ===================
 
