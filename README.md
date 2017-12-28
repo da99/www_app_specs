@@ -1,4 +1,14 @@
 
+SSH
+===============================
+
+* AllowUsers, Disable other exploitable features:
+  http://www.semicomplete.com/articles/ssh-security/
+  * Restrict which users are allowed via AllowUsers or AllowGroups
+  * Deny tunneling/forwarding: AllowTcpForwarding, X11Forwarding, PermitTunnel
+
+
+
 SSL in Hiawatha (let's encrypt)
 ===============================
 http://dotbalm.org/lets-encrypt-with-hiawatha/
