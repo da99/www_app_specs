@@ -3,6 +3,7 @@ Common Protection
 ================
 
 * Crystal: http-protection: https://github.com/rogeriozambon/http-protection
+* Service workers to improve security: https://news.ycombinator.com/item?id=16145782
 
 SSH
 ===============================
