@@ -50,3 +50,10 @@ Systems Design
 * System Design Primer: 
   https://news.ycombinator.com/item?id=13823979
   https://github.com/donnemartin/system-design-primer
+
+
+
+Other libraries for Security:
+==============
+* HTML Encoding: node/npm: https://github.com/mathiasbynens/he
+* Password Hassing: Elixir: https://github.com/riverrun/comeonin
