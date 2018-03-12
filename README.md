@@ -58,3 +58,7 @@ Other libraries for Security:
 * HTML Encoding: node/npm: https://github.com/mathiasbynens/he
 * Password Hassing: Elixir: https://github.com/riverrun/comeonin
 * Comparing encrypted strings (against timing attacks): https://codahale.com/a-lesson-in-timing-attacks/
+
+* Oauth2: https://news.ycombinator.com/item?id=16570091
+
+
