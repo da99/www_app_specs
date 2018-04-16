@@ -24,6 +24,9 @@ Common Protection
 
 * LDAP
 
+* Common things for everyone: https://dev.to/ben/the-fundamentals-of-security-every-developer-should-understand-2m27
+
+
 SSH
 ===============================
 
