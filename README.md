@@ -2,6 +2,9 @@
 Common Protection
 ================
 
+* scanning for invulnerabilities:
+  https://news.ycombinator.com/item?id=17953424
+
 * SSRF : Block local addresses:
   https://blog.securitycompass.com/ssrf-as-a-service-mitigating-a-design-level-software-security-vulnerability-ba2fbb690269
   https://www.acunetix.com/blog/articles/server-side-request-forgery-vulnerability/
