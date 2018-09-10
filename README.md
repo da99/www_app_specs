@@ -2,6 +2,10 @@
 Common Protection
 ================
 
+* SSRF : Block local addresses:
+  https://blog.securitycompass.com/ssrf-as-a-service-mitigating-a-design-level-software-security-vulnerability-ba2fbb690269
+
+
 * APIs: TLS 1.2 or higher
 
 * ip reversal: max minds
