@@ -5,6 +5,10 @@ Common Protection
 * SSRF : Block local addresses:
   https://blog.securitycompass.com/ssrf-as-a-service-mitigating-a-design-level-software-security-vulnerability-ba2fbb690269
   https://www.acunetix.com/blog/articles/server-side-request-forgery-vulnerability/
+  Examples:
+  http://0/
+  CR-LF
+  encoded domains
 
 
 * APIs: TLS 1.2 or higher
