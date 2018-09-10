@@ -5,6 +5,7 @@ Common Protection
 * SSRF : Block local addresses:
   https://blog.securitycompass.com/ssrf-as-a-service-mitigating-a-design-level-software-security-vulnerability-ba2fbb690269
   https://www.acunetix.com/blog/articles/server-side-request-forgery-vulnerability/
+  https://www.blackhat.com/docs/us-17/thursday/us-17-Tsai-A-New-Era-Of-SSRF-Exploiting-URL-Parser-In-Trending-Programming-Languages.pdf
   Examples:
   http://0/
   CR-LF
