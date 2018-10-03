@@ -2,6 +2,9 @@
 Common Protection
 ================
 
+* CORS:
+  * https://news.ycombinator.com/item?id=18134114
+
 * scanning for invulnerabilities:
   https://news.ycombinator.com/item?id=17953424
 
