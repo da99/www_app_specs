@@ -1,6 +1,9 @@
 
+
 Common Protection
 ================
+* X-Frame options: DENY to prevent timing attack:
+  https://news.ycombinator.com/item?id=18159824
 
 * CORS:
   * https://news.ycombinator.com/item?id=18134114
