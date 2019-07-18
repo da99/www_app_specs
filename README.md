@@ -1,4 +1,7 @@
 
+HTTP Security Headers
+=====================
+* https://news.ycombinator.com/item?id=20468845
 
 Common Protection
 ================
