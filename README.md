@@ -3,6 +3,7 @@ HTTP Security Headers
 =====================
 * https://news.ycombinator.com/item?id=20468845
 
+
 Common Protection
 ================
 * X-Frame options: DENY to prevent timing attack:
@@ -105,3 +106,9 @@ Other libraries for Security:
 * Oauth2: https://news.ycombinator.com/item?id=16570091
 
 
+Ubuntu
+======
+* https://joshrendek.com/2013/01/securing-ubuntu/
+* http://news.ycombinator.com/item?id=5087183
+======
+* Securing Ubuntu
