@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=Link to OWASP Application Security FAQ - OWASP
+Type=Link
+URL=http://www.owasp.org/index.php/OWASP_AppSec_FAQ#Is_it_really_required_to_redirect_the_user_to_a_new_page_after_login.3F
+Icon=gnome-fs-bookmark

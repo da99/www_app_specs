@@ -1,0 +1,18 @@
+Stuff you put on the server.
+========================
+* Use a filtered version of the GET/POST values.
+* Use REGEX for url processing. (That way no unwanted characters in the /url/string#:? are used)
+* Make sure 404/500 error reports are escaped, including all Unicode/Hex symbols (check ha.ckers.org).
+* Automatically git/svn latest vendor code each week and upload.
+	* Ramaze
+	* surferhearts/vendor
+
+Stuff already on the server.
+========================
+* Check the latest installed RUBY version on the server is a secured and patched version.
+* Check the MySQL user on the server has limited permissions.
+* Check latest GEMS are installed.
+	* DataMapper
+	* Ramaze
+	* HAML
+	* do_mysql
