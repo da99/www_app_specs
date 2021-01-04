@@ -6,6 +6,8 @@ HTTP Security Headers
 
 Common Protection
 ================
+* LINUX Hardening Guide: https://madaidans-insecurities.github.io/
+
 * X-Frame options: DENY to prevent timing attack:
   https://news.ycombinator.com/item?id=18159824
 
